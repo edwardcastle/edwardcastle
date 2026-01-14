@@ -1,5 +1,16 @@
-# 💫 About Me:
-## About Me :<br><br>🔭 I'm currently working on **a startup building real-time applications with Nuxt 3, Go, gRPC & Redis** — plus developing interactive data dashboards at Dacomat (Reply) featuring dynamic tables with filtering, pagination, sorting, file import/export, and optimized large dataset handling using Vue 3 + TypeScript<br><br>👯 I'm looking to collaborate on **Vue/Nuxt ecosystem tools, UI component libraries, developer utilities, blockchain/Web3 frontends, or projects focused on accessibility (WCAG), performance optimization, and pixel-perfect design systems**<br><br>🤝 I'm looking for help with **expanding my network in the European tech scene, exploring remote-friendly opportunities, and connecting with teams building innovative products**<br><br>🌱 I'm currently learning **Go for high-performance backend services, NestJS for scalable Node.js APIs, React to expand my frontend expertise, gRPC patterns for microservices, deeper Solana/Web3 integrations, and German 🇩🇪**<br><br>💬 Ask me about **Vue.js, Nuxt.js, TypeScript, Pinia/Vuex state management, PrimeVue/Vuetify/Quasar component frameworks, Canvas/SVG animations, PWA development with offline caching strategies, REST & GraphQL API integration, Figma-to-code workflows, unit testing with Vitest/Jest, or migrating JavaScript codebases to TypeScript**<br><br>⚡ Fun fact **I'm a Cuban engineer who emigrated to Italy 🇨🇺→🇮🇹, competed in ACM-ICPC programming contests, developed features for a CAD system using C++ and Qt during my thesis, enjoy mass cooking my weekly meals, geek out on fitness & supplementation, and speak Spanish, English & Italian**
+## About Me :
+
+🔭 I'm currently working on **a startup building real-time applications with Nuxt 3, Go, gRPC & Redis** — plus developing interactive data dashboards at Dacomat (Reply) featuring dynamic tables with filtering, pagination, sorting, file import/export, and optimized large dataset handling using Vue 3 + TypeScript
+
+👯 I'm looking to collaborate on **Vue/Nuxt ecosystem tools, UI component libraries, developer utilities, blockchain/Web3 frontends, or projects focused on accessibility (WCAG), performance optimization, and pixel-perfect design systems**
+
+🤝 I'm looking for help with **expanding my network in the European tech scene, exploring remote-friendly opportunities, and connecting with teams building innovative products**
+
+🌱 I'm currently learning **Go for high-performance backend services, NestJS for scalable Node.js APIs, React to expand my frontend expertise, gRPC patterns for microservices, deeper Solana/Web3 integrations, and German 🇩🇪**
+
+💬 Ask me about **Vue.js, Nuxt.js, TypeScript, Pinia/Vuex state management, PrimeVue/Vuetify/Quasar component frameworks, Canvas/SVG animations, PWA development with offline caching strategies, REST & GraphQL API integration, Figma-to-code workflows, unit testing with Vitest/Jest, or migrating JavaScript codebases to TypeScript**
+
+⚡ Fun fact **I'm a Cuban engineer who emigrated to Italy 🇨🇺→🇮🇹, competed in ACM-ICPC programming contests, and developed features for a CAD system using C++ and Qt during my thesis. Outside of code, I play guitar 🎸, draw ✏️, and play the ocarina 🎵 (yes, like Zelda). I also enjoy mass cooking my weekly meals and geeking out on fitness & supplementation. Fluent in Spanish, English & Italian.**
 
 
 ## 🌐 Socials:
