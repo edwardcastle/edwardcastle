@@ -10,7 +10,7 @@
 
 💬 Ask me about **Vue.js, Nuxt.js, TypeScript, Pinia/Vuex state management, PrimeVue/Vuetify/Quasar component frameworks, Canvas/SVG animations, PWA development with offline caching strategies, REST & GraphQL API integration, Figma-to-code workflows, unit testing with Vitest/Jest, or migrating JavaScript codebases to TypeScript**
 
-⚡ Fun fact **I'm a Cuban engineer who emigrated to Italy 🇨🇺→🇮🇹, competed in ACM-ICPC programming contests, and developed features for a CAD system using C++ and Qt during my thesis. Outside of code, I play guitar 🎸, draw ✏️, and play the ocarina 🎵 (yes, like Zelda). I also enjoy mass cooking my weekly meals and geeking out on fitness & supplementation. Fluent in Spanish, English & Italian.**
+⚡ Fun fact **I'm a Cuban engineer who emigrated to Italy 🇨🇺→🇮🇹, competed in ACM-ICPC programming contests, and developed features for a CAD system using C++ and Qt during my thesis. Outside of code, I play guitar 🎸, draw ✏️, and play the ocarina 🎵 . I also enjoy mass cooking my weekly meals and geeking out on fitness & supplementation. Fluent in Spanish, English, improving my Italian. :)**
 
 
 ## 🌐 Socials:
